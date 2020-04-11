@@ -621,9 +621,14 @@ body {
         width: 100%;
     }
 
+    .header {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
     .header-logo {
         width: 160px;
-        margin-bottom: 22px !important;
-        margin: auto;
+        margin-bottom: 22px;
     }
 }
